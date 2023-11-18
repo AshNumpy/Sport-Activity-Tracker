@@ -7,7 +7,7 @@ NOTION_TOKEN = input("Notion Token: \n")
 NOTION_DB_ID = input("Database ID: \n")
 client = Client(auth=NOTION_TOKEN)
 
-from my_modules import database, exporter
+from myModules import database, exporter
 
 df_dict = database.get_agirlik_takibi_db_info(client, NOTION_DB_ID)
 print("""
