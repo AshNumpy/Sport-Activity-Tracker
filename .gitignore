@@ -399,3 +399,6 @@ FodyWeavers.xsd
 
 # Exclude virtual environment
 .venv/
+
+# Exclude notion token informations
+.tokenize/
