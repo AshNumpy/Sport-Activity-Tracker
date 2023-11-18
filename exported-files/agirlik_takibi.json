@@ -1,1 +1,702 @@
-[{"created time": "2023-11-16T17:05:00.000Z", "hareketin_ismi": "Dumbbell Row", "max_agirlik": 45, "max_tekrar": 10, "summary": "45\u2620 | 10"}, {"created time": "2023-11-16T16:58:00.000Z", "hareketin_ismi": "Plate Loaded Wide Grip Machine Row", "max_agirlik": 100, "max_tekrar": 6, "summary": "100\u2620 | 6"}, {"created time": "2023-11-16T16:31:00.000Z", "hareketin_ismi": "Over Head Press", "max_agirlik": 70, "max_tekrar": 5, "summary": "70\u2620 | 5"}, {"created time": "2023-11-16T16:18:00.000Z", "hareketin_ismi": "Machine Dips", "max_agirlik": 10, "max_tekrar": 8, "summary": "10\u2620 | 8"}, {"created time": "2023-11-16T16:14:00.000Z", "hareketin_ismi": "Incline Dumbbell Chest Press", "max_agirlik": 60, "max_tekrar": 6, "summary": "60\u2620 | 6"}, {"created time": "2023-11-16T15:58:00.000Z", "hareketin_ismi": "Bench Press", "max_agirlik": 70, "max_tekrar": 4, "summary": "70\u2620 | 4"}, {"created time": "2023-11-14T20:25:00.000Z", "hareketin_ismi": "Dumbbell Row", "max_agirlik": 45, "max_tekrar": 10, "summary": "45\u2620 | 10"}, {"created time": "2023-11-14T20:18:00.000Z", "hareketin_ismi": "Plate Loaded Close Grip Low Row", "max_agirlik": 75, "max_tekrar": 10, "summary": "75\u2620 | 10"}, {"created time": "2023-11-14T20:12:00.000Z", "hareketin_ismi": "Lat Pulldown", "max_agirlik": 84, "max_tekrar": 8, "summary": "84\u2620 | 8"}, {"created time": "2023-11-14T20:07:00.000Z", "hareketin_ismi": "Incline Dumbbell Chest Press", "max_agirlik": 60, "max_tekrar": 7, "summary": "60\u2620 | 7"}, {"created time": "2023-11-14T19:59:00.000Z", "hareketin_ismi": "Over Head Press", "max_agirlik": 70, "max_tekrar": 7, "summary": "70\u2620 | 7"}, {"created time": "2023-11-14T19:52:00.000Z", "hareketin_ismi": "Dumbbell Chest Press", "max_agirlik": 60, "max_tekrar": 8, "summary": "60\u2620 | 8"}, {"created time": "2023-11-14T19:46:00.000Z", "hareketin_ismi": "Calf Machine", "max_agirlik": 70, "max_tekrar": 15, "summary": "70\u2620 | 15"}, {"created time": "2023-11-14T19:41:00.000Z", "hareketin_ismi": "Leg Extension", "max_agirlik": 75, "max_tekrar": 13, "summary": "75\u2620 | 13"}, {"created time": "2023-11-14T19:38:00.000Z", "hareketin_ismi": "Leg Press", "max_agirlik": 160, "max_tekrar": 10, "summary": "160\u2620 | 10"}, {"created time": "2023-11-12T18:12:00.000Z", "hareketin_ismi": "Dumbbell Row", "max_agirlik": 45, "max_tekrar": 9, "summary": "45\u2620 | 9"}, {"created time": "2023-11-12T18:02:00.000Z", "hareketin_ismi": "Plate Loaded Wide Grip Machine Row", "max_agirlik": 100, "max_tekrar": 6, "summary": "100\u2620 | 6"}, {"created time": "2023-11-12T17:56:00.000Z", "hareketin_ismi": "Reverse Grip Lat Pulldown", "max_agirlik": 84, "max_tekrar": 8, "summary": "84\u2620 | 8"}, {"created time": "2023-11-12T17:48:00.000Z", "hareketin_ismi": "Over Head Press", "max_agirlik": 70, "max_tekrar": 4, "summary": "70\u2620 | 4"}, {"created time": "2023-11-12T17:40:00.000Z", "hareketin_ismi": "Machine Dips", "max_agirlik": 10, "max_tekrar": 8, "summary": "10\u2620 | 8"}, {"created time": "2023-11-12T17:32:00.000Z", "hareketin_ismi": "Incline Dumbbell Chest Press", "max_agirlik": 60, "max_tekrar": 9, "summary": "60\u2620 | 9"}, {"created time": "2023-11-12T17:25:00.000Z", "hareketin_ismi": "Bench Press", "max_agirlik": 70, "max_tekrar": 5, "summary": "70\u2620 | 5"}, {"created time": "2023-11-10T16:58:00.000Z", "hareketin_ismi": "Plate Loaded Close Grip Low Row", "max_agirlik": 75, "max_tekrar": 8, "summary": "75\u2620 | 8"}, {"created time": "2023-11-10T16:51:00.000Z", "hareketin_ismi": "Lat Pulldown", "max_agirlik": 77, "max_tekrar": 10, "summary": "77\u2620 | 10"}, {"created time": "2023-11-10T16:47:00.000Z", "hareketin_ismi": "Incline Dumbbell Chest Press", "max_agirlik": 60, "max_tekrar": 7, "summary": "60\u2620 | 7"}, {"created time": "2023-11-10T16:39:00.000Z", "hareketin_ismi": "Over Head Press", "max_agirlik": 65, "max_tekrar": 10, "summary": "65\u2620 | 10"}, {"created time": "2023-11-10T16:29:00.000Z", "hareketin_ismi": "Dumbbell Chest Press", "max_agirlik": 60, "max_tekrar": 10, "summary": "60\u2620 | 10"}, {"created time": "2023-11-10T16:24:00.000Z", "hareketin_ismi": "Calf Machine", "max_agirlik": 60, "max_tekrar": 15, "summary": "60\u2620 | 15"}, {"created time": "2023-11-10T16:15:00.000Z", "hareketin_ismi": "Leg Extension", "max_agirlik": 75, "max_tekrar": 12, "summary": "75\u2620 | 12"}, {"created time": "2023-11-10T16:11:00.000Z", "hareketin_ismi": "Leg Press", "max_agirlik": 150, "max_tekrar": 10, "summary": "150\u2620 | 10"}, {"created time": "2023-11-08T17:02:00.000Z", "hareketin_ismi": "Calf Machine", "max_agirlik": 60, "max_tekrar": 12, "summary": "60\u2620 | 12"}, {"created time": "2023-11-08T16:55:00.000Z", "hareketin_ismi": "Leg Extension", "max_agirlik": 70, "max_tekrar": 15, "summary": "70\u2620 | 15"}, {"created time": "2023-11-08T16:52:00.000Z", "hareketin_ismi": "Dumbbell Row", "max_agirlik": 40, "max_tekrar": 10, "summary": "40\u2620 | 10"}, {"created time": "2023-11-08T16:50:00.000Z", "hareketin_ismi": "Plate Loaded Wide Grip Machine Row", "max_agirlik": 90, "max_tekrar": 10, "summary": "90\u2620 | 10"}, {"created time": "2023-11-08T16:33:00.000Z", "hareketin_ismi": "Reverse Grip Lat Pulldown", "max_agirlik": 84, "max_tekrar": 6, "summary": "84\u2620 | 6"}, {"created time": "2023-11-08T16:28:00.000Z", "hareketin_ismi": "Over Head Press", "max_agirlik": 65, "max_tekrar": 8, "summary": "65\u2620 | 8"}, {"created time": "2023-11-08T16:20:00.000Z", "hareketin_ismi": "Machine Dips", "max_agirlik": 10, "max_tekrar": 7, "summary": "10\u2620 | 7"}, {"created time": "2023-11-08T16:15:00.000Z", "hareketin_ismi": "Incline Dumbbell Chest Press", "max_agirlik": 60, "max_tekrar": 8, "summary": "60\u2620 | 8"}, {"created time": "2023-11-08T16:06:00.000Z", "hareketin_ismi": "Bench Press", "max_agirlik": 70, "max_tekrar": 5, "summary": "70\u2620 | 5"}, {"created time": "2023-10-30T17:16:00.000Z", "hareketin_ismi": "Calf Machine", "max_agirlik": 50, "max_tekrar": 15, "summary": "50\u2620 | 15"}, {"created time": "2023-10-30T17:05:00.000Z", "hareketin_ismi": "Dumbbell Row", "max_agirlik": 40, "max_tekrar": 10, "summary": "40\u2620 | 10"}, {"created time": "2023-10-30T16:48:00.000Z", "hareketin_ismi": "Reverse Grip Lat Pulldown", "max_agirlik": 77, "max_tekrar": 11, "summary": "77\u2620 | 11"}, {"created time": "2023-10-30T16:39:00.000Z", "hareketin_ismi": "Over Head Press", "max_agirlik": 65, "max_tekrar": 8, "summary": "65\u2620 | 8"}, {"created time": "2023-10-30T16:31:00.000Z", "hareketin_ismi": "Machine Dips", "max_agirlik": 10, "max_tekrar": 7, "summary": "10\u2620 | 7"}, {"created time": "2023-10-30T16:27:00.000Z", "hareketin_ismi": "Incline Dumbbell Chest Press", "max_agirlik": 60, "max_tekrar": 8, "summary": "60\u2620 | 8"}, {"created time": "2023-10-30T16:20:00.000Z", "hareketin_ismi": "Bench Press", "max_agirlik": 70, "max_tekrar": 4, "summary": "70\u2620 | 4"}, {"created time": "2023-10-28T18:11:00.000Z", "hareketin_ismi": "Incline Dumbbell Chest Press", "max_agirlik": 60, "max_tekrar": 8, "summary": "60\u2620 | 8"}, {"created time": "2023-10-28T17:59:00.000Z", "hareketin_ismi": "Over Head Press", "max_agirlik": 65, "max_tekrar": 9, "summary": "65\u2620 | 9"}, {"created time": "2023-10-28T17:52:00.000Z", "hareketin_ismi": "Dumbbell Chest Press", "max_agirlik": 60, "max_tekrar": 8, "summary": "60\u2620 | 8"}, {"created time": "2023-10-28T17:43:00.000Z", "hareketin_ismi": "Calf Machine", "max_agirlik": 60, "max_tekrar": 10, "summary": "60\u2620 | 10"}, {"created time": "2023-10-28T17:43:00.000Z", "hareketin_ismi": "Leg Extension", "max_agirlik": 65, "max_tekrar": 15, "summary": "65\u2620 | 15"}, {"created time": "2023-10-28T17:33:00.000Z", "hareketin_ismi": "Leg Press", "max_agirlik": 150, "max_tekrar": 8, "summary": "150\u2620 | 8"}, {"created time": "2023-10-26T16:38:00.000Z", "hareketin_ismi": "Reverse Grip Lat Pulldown", "max_agirlik": 70, "max_tekrar": 10, "summary": "70\u2620 | 10"}, {"created time": "2023-10-26T16:33:00.000Z", "hareketin_ismi": "Over Head Press", "max_agirlik": 65, "max_tekrar": 6, "summary": "65\u2620 | 6"}, {"created time": "2023-10-26T16:26:00.000Z", "hareketin_ismi": "Machine Dips", "max_agirlik": 10, "max_tekrar": 8, "summary": "10\u2620 | 8"}, {"created time": "2023-10-26T16:25:00.000Z", "hareketin_ismi": "Incline Dumbbell Chest Press", "max_agirlik": 55, "max_tekrar": 10, "summary": "55\u2620 | 10"}, {"created time": "2023-10-26T16:14:00.000Z", "hareketin_ismi": "Bench Press", "max_agirlik": 70, "max_tekrar": 3, "summary": "70\u2620 | 3"}, {"created time": "2023-10-24T17:37:00.000Z", "hareketin_ismi": "Lat Pulldown", "max_agirlik": 77, "max_tekrar": 9, "summary": "77\u2620 | 9"}, {"created time": "2023-10-24T17:34:00.000Z", "hareketin_ismi": "Incline Dumbbell Chest Press", "max_agirlik": 55, "max_tekrar": 8, "summary": "55\u2620 | 8"}, {"created time": "2023-10-24T17:27:00.000Z", "hareketin_ismi": "Over Head Press", "max_agirlik": 65, "max_tekrar": 8, "summary": "65\u2620 | 8"}, {"created time": "2023-10-24T17:19:00.000Z", "hareketin_ismi": "Dumbbell Chest Press", "max_agirlik": 55, "max_tekrar": 10, "summary": "55\u2620 | 10"}, {"created time": "2023-10-24T17:11:00.000Z", "hareketin_ismi": "Calf Machine", "max_agirlik": 70, "max_tekrar": 8, "summary": "70\u2620 | 8"}, {"created time": "2023-10-24T17:03:00.000Z", "hareketin_ismi": "Leg Extension", "max_agirlik": 65, "max_tekrar": 10, "summary": "65\u2620 | 10"}, {"created time": "2023-10-24T17:03:00.000Z", "hareketin_ismi": "Leg Press", "max_agirlik": 140, "max_tekrar": 10, "summary": "140\u2620 | 10"}, {"created time": "2023-10-22T17:56:00.000Z", "hareketin_ismi": "Calf Machine", "max_agirlik": 50, "max_tekrar": 15, "summary": "50\u2620 | 15"}, {"created time": "2023-10-22T17:52:00.000Z", "hareketin_ismi": "Leg Extension", "max_agirlik": 54, "max_tekrar": 12, "summary": "54\u2620 | 12"}, {"created time": "2023-10-22T17:41:00.000Z", "hareketin_ismi": "Plate Loaded Wide Grip Machine Row", "max_agirlik": 80, "max_tekrar": 10, "summary": "80\u2620 | 10"}, {"created time": "2023-10-22T17:32:00.000Z", "hareketin_ismi": "Reverse Grip Lat Pulldown", "max_agirlik": 77, "max_tekrar": 8, "summary": "77\u2620 | 8"}, {"created time": "2023-10-22T17:25:00.000Z", "hareketin_ismi": "Over Head Press", "max_agirlik": 60, "max_tekrar": 9, "summary": "60\u2620 | 9"}, {"created time": "2023-10-22T17:18:00.000Z", "hareketin_ismi": "Machine Dips", "max_agirlik": 5, "max_tekrar": 10, "summary": "5\u2620 | 10"}, {"created time": "2023-10-22T17:13:00.000Z", "hareketin_ismi": "Incline Dumbbell Chest Press", "max_agirlik": 50, "max_tekrar": 10, "summary": "50\u2620 | 10"}, {"created time": "2023-10-22T17:04:00.000Z", "hareketin_ismi": "Bench Press", "max_agirlik": 60, "max_tekrar": 8, "summary": "60\u2620 | 8"}, {"created time": "2023-10-12T17:37:00.000Z", "hareketin_ismi": "Plate Loaded Close Grip Low Row", "max_agirlik": 70, "max_tekrar": 10, "summary": "70\u2620 | 10"}, {"created time": "2023-10-12T17:28:00.000Z", "hareketin_ismi": "Lat Pulldown", "max_agirlik": 77, "max_tekrar": 10, "summary": "77\u2620 | 10"}, {"created time": "2023-10-12T17:26:00.000Z", "hareketin_ismi": "Incline Dumbbell Chest Press", "max_agirlik": 50, "max_tekrar": 8, "summary": "50\u2620 | 8"}, {"created time": "2023-10-12T17:16:00.000Z", "hareketin_ismi": "Over Head Press", "max_agirlik": 60, "max_tekrar": 8, "summary": "60\u2620 | 8"}, {"created time": "2023-10-12T16:59:00.000Z", "hareketin_ismi": "Dumbbell Chest Press", "max_agirlik": 55, "max_tekrar": 10, "summary": "55\u2620 | 10"}, {"created time": "2023-10-12T16:50:00.000Z", "hareketin_ismi": "Calf Machine", "max_agirlik": 50, "max_tekrar": 13, "summary": "50\u2620 | 13"}, {"created time": "2023-10-12T16:44:00.000Z", "hareketin_ismi": "Leg Extension", "max_agirlik": 54, "max_tekrar": 15, "summary": "54\u2620 | 15"}, {"created time": "2023-10-12T16:39:00.000Z", "hareketin_ismi": "Leg Press", "max_agirlik": 130, "max_tekrar": 10, "summary": "130\u2620 | 10"}, {"created time": "2023-10-10T17:51:00.000Z", "hareketin_ismi": "Dumbbell Row", "max_agirlik": 37.5, "max_tekrar": 8, "summary": "37.5\u2620 | 8"}, {"created time": "2023-10-10T17:37:00.000Z", "hareketin_ismi": "Plate Loaded Wide Grip Machine Row", "max_agirlik": 80, "max_tekrar": 9, "summary": "80\u2620 | 9"}, {"created time": "2023-10-10T17:37:00.000Z", "hareketin_ismi": "Reverse Grip Lat Pulldown", "max_agirlik": 77, "max_tekrar": 8, "summary": "77\u2620 | 8"}, {"created time": "2023-10-10T17:20:00.000Z", "hareketin_ismi": "Over Head Press", "max_agirlik": 50, "max_tekrar": 8, "summary": "50\u2620 | 8"}, {"created time": "2023-10-10T17:14:00.000Z", "hareketin_ismi": "Machine Dips", "max_agirlik": 5, "max_tekrar": 8, "summary": "5\u2620 | 8"}, {"created time": "2023-10-10T17:11:00.000Z", "hareketin_ismi": "Incline Dumbbell Chest Press", "max_agirlik": 50, "max_tekrar": 8, "summary": "50\u2620 | 8"}, {"created time": "2023-10-10T17:05:00.000Z", "hareketin_ismi": "Bench Press", "max_agirlik": 60, "max_tekrar": 7, "summary": "60\u2620 | 7"}, {"created time": "2023-10-08T19:09:00.000Z", "hareketin_ismi": "Plate Loaded Close Grip Low Row", "max_agirlik": 70, "max_tekrar": 10, "summary": "70\u2620 | 10"}, {"created time": "2023-10-08T18:59:00.000Z", "hareketin_ismi": "Lat Pulldown", "max_agirlik": 77, "max_tekrar": 7, "summary": "77\u2620 | 7"}, {"created time": "2023-10-08T18:54:00.000Z", "hareketin_ismi": "Incline Dumbbell Chest Press", "max_agirlik": 50, "max_tekrar": 8, "summary": "50\u2620 | 8"}, {"created time": "2023-10-08T18:45:00.000Z", "hareketin_ismi": "Over Head Press", "max_agirlik": 50, "max_tekrar": 10, "summary": "50\u2620 | 10"}, {"created time": "2023-10-08T18:40:00.000Z", "hareketin_ismi": "Dumbbell Chest Press", "max_agirlik": 50, "max_tekrar": 9, "summary": "50\u2620 | 9"}, {"created time": "2023-10-08T18:28:00.000Z", "hareketin_ismi": "Calf Machine", "max_agirlik": 50, "max_tekrar": 12, "summary": "50\u2620 | 12"}, {"created time": "2023-10-08T18:24:00.000Z", "hareketin_ismi": "Leg Extension", "max_agirlik": 54, "max_tekrar": 12, "summary": "54\u2620 | 12"}, {"created time": "2023-10-08T18:19:00.000Z", "hareketin_ismi": "Leg Press", "max_agirlik": 110, "max_tekrar": 10, "summary": "110\u2620 | 10"}, {"created time": "2023-10-06T17:10:00.000Z", "hareketin_ismi": "Plate Loaded Wide Grip Machine Row", "max_agirlik": 80, "max_tekrar": 10, "summary": "80\u2620 | 10"}, {"created time": "2023-10-06T17:05:00.000Z", "hareketin_ismi": "Reverse Grip Lat Pulldown", "max_agirlik": 77, "max_tekrar": 9, "summary": "77\u2620 | 9"}, {"created time": "2023-10-06T16:59:00.000Z", "hareketin_ismi": "Over Head Press", "max_agirlik": 50, "max_tekrar": 8, "summary": "50\u2620 | 8"}, {"created time": "2023-10-06T16:54:00.000Z", "hareketin_ismi": "Machine Dips", "max_agirlik": 0, "max_tekrar": 10, "summary": "0\u2620 | 10"}, {"created time": "2023-10-06T16:51:00.000Z", "hareketin_ismi": "Incline Dumbbell Chest Press", "max_agirlik": 50, "max_tekrar": 8, "summary": "50\u2620 | 8"}]
+[
+    {
+        "created time": "2023-11-16T17:05:00.000Z",
+        "hareketin_ismi": "Dumbbell Row",
+        "max_agirlik": 45,
+        "max_tekrar": 10,
+        "summary": "45☠ | 10"
+    },
+    {
+        "created time": "2023-11-16T16:58:00.000Z",
+        "hareketin_ismi": "Plate Loaded Wide Grip Machine Row",
+        "max_agirlik": 100,
+        "max_tekrar": 6,
+        "summary": "100☠ | 6"
+    },
+    {
+        "created time": "2023-11-16T16:31:00.000Z",
+        "hareketin_ismi": "Over Head Press",
+        "max_agirlik": 70,
+        "max_tekrar": 5,
+        "summary": "70☠ | 5"
+    },
+    {
+        "created time": "2023-11-16T16:18:00.000Z",
+        "hareketin_ismi": "Machine Dips",
+        "max_agirlik": 10,
+        "max_tekrar": 8,
+        "summary": "10☠ | 8"
+    },
+    {
+        "created time": "2023-11-16T16:14:00.000Z",
+        "hareketin_ismi": "Incline Dumbbell Chest Press",
+        "max_agirlik": 60,
+        "max_tekrar": 6,
+        "summary": "60☠ | 6"
+    },
+    {
+        "created time": "2023-11-16T15:58:00.000Z",
+        "hareketin_ismi": "Bench Press",
+        "max_agirlik": 70,
+        "max_tekrar": 4,
+        "summary": "70☠ | 4"
+    },
+    {
+        "created time": "2023-11-14T20:25:00.000Z",
+        "hareketin_ismi": "Dumbbell Row",
+        "max_agirlik": 45,
+        "max_tekrar": 10,
+        "summary": "45☠ | 10"
+    },
+    {
+        "created time": "2023-11-14T20:18:00.000Z",
+        "hareketin_ismi": "Plate Loaded Close Grip Low Row",
+        "max_agirlik": 75,
+        "max_tekrar": 10,
+        "summary": "75☠ | 10"
+    },
+    {
+        "created time": "2023-11-14T20:12:00.000Z",
+        "hareketin_ismi": "Lat Pulldown",
+        "max_agirlik": 84,
+        "max_tekrar": 8,
+        "summary": "84☠ | 8"
+    },
+    {
+        "created time": "2023-11-14T20:07:00.000Z",
+        "hareketin_ismi": "Incline Dumbbell Chest Press",
+        "max_agirlik": 60,
+        "max_tekrar": 7,
+        "summary": "60☠ | 7"
+    },
+    {
+        "created time": "2023-11-14T19:59:00.000Z",
+        "hareketin_ismi": "Over Head Press",
+        "max_agirlik": 70,
+        "max_tekrar": 7,
+        "summary": "70☠ | 7"
+    },
+    {
+        "created time": "2023-11-14T19:52:00.000Z",
+        "hareketin_ismi": "Dumbbell Chest Press",
+        "max_agirlik": 60,
+        "max_tekrar": 8,
+        "summary": "60☠ | 8"
+    },
+    {
+        "created time": "2023-11-14T19:46:00.000Z",
+        "hareketin_ismi": "Calf Machine",
+        "max_agirlik": 70,
+        "max_tekrar": 15,
+        "summary": "70☠ | 15"
+    },
+    {
+        "created time": "2023-11-14T19:41:00.000Z",
+        "hareketin_ismi": "Leg Extension",
+        "max_agirlik": 75,
+        "max_tekrar": 13,
+        "summary": "75☠ | 13"
+    },
+    {
+        "created time": "2023-11-14T19:38:00.000Z",
+        "hareketin_ismi": "Leg Press",
+        "max_agirlik": 160,
+        "max_tekrar": 10,
+        "summary": "160☠ | 10"
+    },
+    {
+        "created time": "2023-11-12T18:12:00.000Z",
+        "hareketin_ismi": "Dumbbell Row",
+        "max_agirlik": 45,
+        "max_tekrar": 9,
+        "summary": "45☠ | 9"
+    },
+    {
+        "created time": "2023-11-12T18:02:00.000Z",
+        "hareketin_ismi": "Plate Loaded Wide Grip Machine Row",
+        "max_agirlik": 100,
+        "max_tekrar": 6,
+        "summary": "100☠ | 6"
+    },
+    {
+        "created time": "2023-11-12T17:56:00.000Z",
+        "hareketin_ismi": "Reverse Grip Lat Pulldown",
+        "max_agirlik": 84,
+        "max_tekrar": 8,
+        "summary": "84☠ | 8"
+    },
+    {
+        "created time": "2023-11-12T17:48:00.000Z",
+        "hareketin_ismi": "Over Head Press",
+        "max_agirlik": 70,
+        "max_tekrar": 4,
+        "summary": "70☠ | 4"
+    },
+    {
+        "created time": "2023-11-12T17:40:00.000Z",
+        "hareketin_ismi": "Machine Dips",
+        "max_agirlik": 10,
+        "max_tekrar": 8,
+        "summary": "10☠ | 8"
+    },
+    {
+        "created time": "2023-11-12T17:32:00.000Z",
+        "hareketin_ismi": "Incline Dumbbell Chest Press",
+        "max_agirlik": 60,
+        "max_tekrar": 9,
+        "summary": "60☠ | 9"
+    },
+    {
+        "created time": "2023-11-12T17:25:00.000Z",
+        "hareketin_ismi": "Bench Press",
+        "max_agirlik": 70,
+        "max_tekrar": 5,
+        "summary": "70☠ | 5"
+    },
+    {
+        "created time": "2023-11-10T16:58:00.000Z",
+        "hareketin_ismi": "Plate Loaded Close Grip Low Row",
+        "max_agirlik": 75,
+        "max_tekrar": 8,
+        "summary": "75☠ | 8"
+    },
+    {
+        "created time": "2023-11-10T16:51:00.000Z",
+        "hareketin_ismi": "Lat Pulldown",
+        "max_agirlik": 77,
+        "max_tekrar": 10,
+        "summary": "77☠ | 10"
+    },
+    {
+        "created time": "2023-11-10T16:47:00.000Z",
+        "hareketin_ismi": "Incline Dumbbell Chest Press",
+        "max_agirlik": 60,
+        "max_tekrar": 7,
+        "summary": "60☠ | 7"
+    },
+    {
+        "created time": "2023-11-10T16:39:00.000Z",
+        "hareketin_ismi": "Over Head Press",
+        "max_agirlik": 65,
+        "max_tekrar": 10,
+        "summary": "65☠ | 10"
+    },
+    {
+        "created time": "2023-11-10T16:29:00.000Z",
+        "hareketin_ismi": "Dumbbell Chest Press",
+        "max_agirlik": 60,
+        "max_tekrar": 10,
+        "summary": "60☠ | 10"
+    },
+    {
+        "created time": "2023-11-10T16:24:00.000Z",
+        "hareketin_ismi": "Calf Machine",
+        "max_agirlik": 60,
+        "max_tekrar": 15,
+        "summary": "60☠ | 15"
+    },
+    {
+        "created time": "2023-11-10T16:15:00.000Z",
+        "hareketin_ismi": "Leg Extension",
+        "max_agirlik": 75,
+        "max_tekrar": 12,
+        "summary": "75☠ | 12"
+    },
+    {
+        "created time": "2023-11-10T16:11:00.000Z",
+        "hareketin_ismi": "Leg Press",
+        "max_agirlik": 150,
+        "max_tekrar": 10,
+        "summary": "150☠ | 10"
+    },
+    {
+        "created time": "2023-11-08T17:02:00.000Z",
+        "hareketin_ismi": "Calf Machine",
+        "max_agirlik": 60,
+        "max_tekrar": 12,
+        "summary": "60☠ | 12"
+    },
+    {
+        "created time": "2023-11-08T16:55:00.000Z",
+        "hareketin_ismi": "Leg Extension",
+        "max_agirlik": 70,
+        "max_tekrar": 15,
+        "summary": "70☠ | 15"
+    },
+    {
+        "created time": "2023-11-08T16:52:00.000Z",
+        "hareketin_ismi": "Dumbbell Row",
+        "max_agirlik": 40,
+        "max_tekrar": 10,
+        "summary": "40☠ | 10"
+    },
+    {
+        "created time": "2023-11-08T16:50:00.000Z",
+        "hareketin_ismi": "Plate Loaded Wide Grip Machine Row",
+        "max_agirlik": 90,
+        "max_tekrar": 10,
+        "summary": "90☠ | 10"
+    },
+    {
+        "created time": "2023-11-08T16:33:00.000Z",
+        "hareketin_ismi": "Reverse Grip Lat Pulldown",
+        "max_agirlik": 84,
+        "max_tekrar": 6,
+        "summary": "84☠ | 6"
+    },
+    {
+        "created time": "2023-11-08T16:28:00.000Z",
+        "hareketin_ismi": "Over Head Press",
+        "max_agirlik": 65,
+        "max_tekrar": 8,
+        "summary": "65☠ | 8"
+    },
+    {
+        "created time": "2023-11-08T16:20:00.000Z",
+        "hareketin_ismi": "Machine Dips",
+        "max_agirlik": 10,
+        "max_tekrar": 7,
+        "summary": "10☠ | 7"
+    },
+    {
+        "created time": "2023-11-08T16:15:00.000Z",
+        "hareketin_ismi": "Incline Dumbbell Chest Press",
+        "max_agirlik": 60,
+        "max_tekrar": 8,
+        "summary": "60☠ | 8"
+    },
+    {
+        "created time": "2023-11-08T16:06:00.000Z",
+        "hareketin_ismi": "Bench Press",
+        "max_agirlik": 70,
+        "max_tekrar": 5,
+        "summary": "70☠ | 5"
+    },
+    {
+        "created time": "2023-10-30T17:16:00.000Z",
+        "hareketin_ismi": "Calf Machine",
+        "max_agirlik": 50,
+        "max_tekrar": 15,
+        "summary": "50☠ | 15"
+    },
+    {
+        "created time": "2023-10-30T17:05:00.000Z",
+        "hareketin_ismi": "Dumbbell Row",
+        "max_agirlik": 40,
+        "max_tekrar": 10,
+        "summary": "40☠ | 10"
+    },
+    {
+        "created time": "2023-10-30T16:48:00.000Z",
+        "hareketin_ismi": "Reverse Grip Lat Pulldown",
+        "max_agirlik": 77,
+        "max_tekrar": 11,
+        "summary": "77☠ | 11"
+    },
+    {
+        "created time": "2023-10-30T16:39:00.000Z",
+        "hareketin_ismi": "Over Head Press",
+        "max_agirlik": 65,
+        "max_tekrar": 8,
+        "summary": "65☠ | 8"
+    },
+    {
+        "created time": "2023-10-30T16:31:00.000Z",
+        "hareketin_ismi": "Machine Dips",
+        "max_agirlik": 10,
+        "max_tekrar": 7,
+        "summary": "10☠ | 7"
+    },
+    {
+        "created time": "2023-10-30T16:27:00.000Z",
+        "hareketin_ismi": "Incline Dumbbell Chest Press",
+        "max_agirlik": 60,
+        "max_tekrar": 8,
+        "summary": "60☠ | 8"
+    },
+    {
+        "created time": "2023-10-30T16:20:00.000Z",
+        "hareketin_ismi": "Bench Press",
+        "max_agirlik": 70,
+        "max_tekrar": 4,
+        "summary": "70☠ | 4"
+    },
+    {
+        "created time": "2023-10-28T18:11:00.000Z",
+        "hareketin_ismi": "Incline Dumbbell Chest Press",
+        "max_agirlik": 60,
+        "max_tekrar": 8,
+        "summary": "60☠ | 8"
+    },
+    {
+        "created time": "2023-10-28T17:59:00.000Z",
+        "hareketin_ismi": "Over Head Press",
+        "max_agirlik": 65,
+        "max_tekrar": 9,
+        "summary": "65☠ | 9"
+    },
+    {
+        "created time": "2023-10-28T17:52:00.000Z",
+        "hareketin_ismi": "Dumbbell Chest Press",
+        "max_agirlik": 60,
+        "max_tekrar": 8,
+        "summary": "60☠ | 8"
+    },
+    {
+        "created time": "2023-10-28T17:43:00.000Z",
+        "hareketin_ismi": "Calf Machine",
+        "max_agirlik": 60,
+        "max_tekrar": 10,
+        "summary": "60☠ | 10"
+    },
+    {
+        "created time": "2023-10-28T17:43:00.000Z",
+        "hareketin_ismi": "Leg Extension",
+        "max_agirlik": 65,
+        "max_tekrar": 15,
+        "summary": "65☠ | 15"
+    },
+    {
+        "created time": "2023-10-28T17:33:00.000Z",
+        "hareketin_ismi": "Leg Press",
+        "max_agirlik": 150,
+        "max_tekrar": 8,
+        "summary": "150☠ | 8"
+    },
+    {
+        "created time": "2023-10-26T16:38:00.000Z",
+        "hareketin_ismi": "Reverse Grip Lat Pulldown",
+        "max_agirlik": 70,
+        "max_tekrar": 10,
+        "summary": "70☠ | 10"
+    },
+    {
+        "created time": "2023-10-26T16:33:00.000Z",
+        "hareketin_ismi": "Over Head Press",
+        "max_agirlik": 65,
+        "max_tekrar": 6,
+        "summary": "65☠ | 6"
+    },
+    {
+        "created time": "2023-10-26T16:26:00.000Z",
+        "hareketin_ismi": "Machine Dips",
+        "max_agirlik": 10,
+        "max_tekrar": 8,
+        "summary": "10☠ | 8"
+    },
+    {
+        "created time": "2023-10-26T16:25:00.000Z",
+        "hareketin_ismi": "Incline Dumbbell Chest Press",
+        "max_agirlik": 55,
+        "max_tekrar": 10,
+        "summary": "55☠ | 10"
+    },
+    {
+        "created time": "2023-10-26T16:14:00.000Z",
+        "hareketin_ismi": "Bench Press",
+        "max_agirlik": 70,
+        "max_tekrar": 3,
+        "summary": "70☠ | 3"
+    },
+    {
+        "created time": "2023-10-24T17:37:00.000Z",
+        "hareketin_ismi": "Lat Pulldown",
+        "max_agirlik": 77,
+        "max_tekrar": 9,
+        "summary": "77☠ | 9"
+    },
+    {
+        "created time": "2023-10-24T17:34:00.000Z",
+        "hareketin_ismi": "Incline Dumbbell Chest Press",
+        "max_agirlik": 55,
+        "max_tekrar": 8,
+        "summary": "55☠ | 8"
+    },
+    {
+        "created time": "2023-10-24T17:27:00.000Z",
+        "hareketin_ismi": "Over Head Press",
+        "max_agirlik": 65,
+        "max_tekrar": 8,
+        "summary": "65☠ | 8"
+    },
+    {
+        "created time": "2023-10-24T17:19:00.000Z",
+        "hareketin_ismi": "Dumbbell Chest Press",
+        "max_agirlik": 55,
+        "max_tekrar": 10,
+        "summary": "55☠ | 10"
+    },
+    {
+        "created time": "2023-10-24T17:11:00.000Z",
+        "hareketin_ismi": "Calf Machine",
+        "max_agirlik": 70,
+        "max_tekrar": 8,
+        "summary": "70☠ | 8"
+    },
+    {
+        "created time": "2023-10-24T17:03:00.000Z",
+        "hareketin_ismi": "Leg Extension",
+        "max_agirlik": 65,
+        "max_tekrar": 10,
+        "summary": "65☠ | 10"
+    },
+    {
+        "created time": "2023-10-24T17:03:00.000Z",
+        "hareketin_ismi": "Leg Press",
+        "max_agirlik": 140,
+        "max_tekrar": 10,
+        "summary": "140☠ | 10"
+    },
+    {
+        "created time": "2023-10-22T17:56:00.000Z",
+        "hareketin_ismi": "Calf Machine",
+        "max_agirlik": 50,
+        "max_tekrar": 15,
+        "summary": "50☠ | 15"
+    },
+    {
+        "created time": "2023-10-22T17:52:00.000Z",
+        "hareketin_ismi": "Leg Extension",
+        "max_agirlik": 54,
+        "max_tekrar": 12,
+        "summary": "54☠ | 12"
+    },
+    {
+        "created time": "2023-10-22T17:41:00.000Z",
+        "hareketin_ismi": "Plate Loaded Wide Grip Machine Row",
+        "max_agirlik": 80,
+        "max_tekrar": 10,
+        "summary": "80☠ | 10"
+    },
+    {
+        "created time": "2023-10-22T17:32:00.000Z",
+        "hareketin_ismi": "Reverse Grip Lat Pulldown",
+        "max_agirlik": 77,
+        "max_tekrar": 8,
+        "summary": "77☠ | 8"
+    },
+    {
+        "created time": "2023-10-22T17:25:00.000Z",
+        "hareketin_ismi": "Over Head Press",
+        "max_agirlik": 60,
+        "max_tekrar": 9,
+        "summary": "60☠ | 9"
+    },
+    {
+        "created time": "2023-10-22T17:18:00.000Z",
+        "hareketin_ismi": "Machine Dips",
+        "max_agirlik": 5,
+        "max_tekrar": 10,
+        "summary": "5☠ | 10"
+    },
+    {
+        "created time": "2023-10-22T17:13:00.000Z",
+        "hareketin_ismi": "Incline Dumbbell Chest Press",
+        "max_agirlik": 50,
+        "max_tekrar": 10,
+        "summary": "50☠ | 10"
+    },
+    {
+        "created time": "2023-10-22T17:04:00.000Z",
+        "hareketin_ismi": "Bench Press",
+        "max_agirlik": 60,
+        "max_tekrar": 8,
+        "summary": "60☠ | 8"
+    },
+    {
+        "created time": "2023-10-12T17:37:00.000Z",
+        "hareketin_ismi": "Plate Loaded Close Grip Low Row",
+        "max_agirlik": 70,
+        "max_tekrar": 10,
+        "summary": "70☠ | 10"
+    },
+    {
+        "created time": "2023-10-12T17:28:00.000Z",
+        "hareketin_ismi": "Lat Pulldown",
+        "max_agirlik": 77,
+        "max_tekrar": 10,
+        "summary": "77☠ | 10"
+    },
+    {
+        "created time": "2023-10-12T17:26:00.000Z",
+        "hareketin_ismi": "Incline Dumbbell Chest Press",
+        "max_agirlik": 50,
+        "max_tekrar": 8,
+        "summary": "50☠ | 8"
+    },
+    {
+        "created time": "2023-10-12T17:16:00.000Z",
+        "hareketin_ismi": "Over Head Press",
+        "max_agirlik": 60,
+        "max_tekrar": 8,
+        "summary": "60☠ | 8"
+    },
+    {
+        "created time": "2023-10-12T16:59:00.000Z",
+        "hareketin_ismi": "Dumbbell Chest Press",
+        "max_agirlik": 55,
+        "max_tekrar": 10,
+        "summary": "55☠ | 10"
+    },
+    {
+        "created time": "2023-10-12T16:50:00.000Z",
+        "hareketin_ismi": "Calf Machine",
+        "max_agirlik": 50,
+        "max_tekrar": 13,
+        "summary": "50☠ | 13"
+    },
+    {
+        "created time": "2023-10-12T16:44:00.000Z",
+        "hareketin_ismi": "Leg Extension",
+        "max_agirlik": 54,
+        "max_tekrar": 15,
+        "summary": "54☠ | 15"
+    },
+    {
+        "created time": "2023-10-12T16:39:00.000Z",
+        "hareketin_ismi": "Leg Press",
+        "max_agirlik": 130,
+        "max_tekrar": 10,
+        "summary": "130☠ | 10"
+    },
+    {
+        "created time": "2023-10-10T17:51:00.000Z",
+        "hareketin_ismi": "Dumbbell Row",
+        "max_agirlik": 37.5,
+        "max_tekrar": 8,
+        "summary": "37.5☠ | 8"
+    },
+    {
+        "created time": "2023-10-10T17:37:00.000Z",
+        "hareketin_ismi": "Plate Loaded Wide Grip Machine Row",
+        "max_agirlik": 80,
+        "max_tekrar": 9,
+        "summary": "80☠ | 9"
+    },
+    {
+        "created time": "2023-10-10T17:37:00.000Z",
+        "hareketin_ismi": "Reverse Grip Lat Pulldown",
+        "max_agirlik": 77,
+        "max_tekrar": 8,
+        "summary": "77☠ | 8"
+    },
+    {
+        "created time": "2023-10-10T17:20:00.000Z",
+        "hareketin_ismi": "Over Head Press",
+        "max_agirlik": 50,
+        "max_tekrar": 8,
+        "summary": "50☠ | 8"
+    },
+    {
+        "created time": "2023-10-10T17:14:00.000Z",
+        "hareketin_ismi": "Machine Dips",
+        "max_agirlik": 5,
+        "max_tekrar": 8,
+        "summary": "5☠ | 8"
+    },
+    {
+        "created time": "2023-10-10T17:11:00.000Z",
+        "hareketin_ismi": "Incline Dumbbell Chest Press",
+        "max_agirlik": 50,
+        "max_tekrar": 8,
+        "summary": "50☠ | 8"
+    },
+    {
+        "created time": "2023-10-10T17:05:00.000Z",
+        "hareketin_ismi": "Bench Press",
+        "max_agirlik": 60,
+        "max_tekrar": 7,
+        "summary": "60☠ | 7"
+    },
+    {
+        "created time": "2023-10-08T19:09:00.000Z",
+        "hareketin_ismi": "Plate Loaded Close Grip Low Row",
+        "max_agirlik": 70,
+        "max_tekrar": 10,
+        "summary": "70☠ | 10"
+    },
+    {
+        "created time": "2023-10-08T18:59:00.000Z",
+        "hareketin_ismi": "Lat Pulldown",
+        "max_agirlik": 77,
+        "max_tekrar": 7,
+        "summary": "77☠ | 7"
+    },
+    {
+        "created time": "2023-10-08T18:54:00.000Z",
+        "hareketin_ismi": "Incline Dumbbell Chest Press",
+        "max_agirlik": 50,
+        "max_tekrar": 8,
+        "summary": "50☠ | 8"
+    },
+    {
+        "created time": "2023-10-08T18:45:00.000Z",
+        "hareketin_ismi": "Over Head Press",
+        "max_agirlik": 50,
+        "max_tekrar": 10,
+        "summary": "50☠ | 10"
+    },
+    {
+        "created time": "2023-10-08T18:40:00.000Z",
+        "hareketin_ismi": "Dumbbell Chest Press",
+        "max_agirlik": 50,
+        "max_tekrar": 9,
+        "summary": "50☠ | 9"
+    },
+    {
+        "created time": "2023-10-08T18:28:00.000Z",
+        "hareketin_ismi": "Calf Machine",
+        "max_agirlik": 50,
+        "max_tekrar": 12,
+        "summary": "50☠ | 12"
+    },
+    {
+        "created time": "2023-10-08T18:24:00.000Z",
+        "hareketin_ismi": "Leg Extension",
+        "max_agirlik": 54,
+        "max_tekrar": 12,
+        "summary": "54☠ | 12"
+    },
+    {
+        "created time": "2023-10-08T18:19:00.000Z",
+        "hareketin_ismi": "Leg Press",
+        "max_agirlik": 110,
+        "max_tekrar": 10,
+        "summary": "110☠ | 10"
+    },
+    {
+        "created time": "2023-10-06T17:10:00.000Z",
+        "hareketin_ismi": "Plate Loaded Wide Grip Machine Row",
+        "max_agirlik": 80,
+        "max_tekrar": 10,
+        "summary": "80☠ | 10"
+    },
+    {
+        "created time": "2023-10-06T17:05:00.000Z",
+        "hareketin_ismi": "Reverse Grip Lat Pulldown",
+        "max_agirlik": 77,
+        "max_tekrar": 9,
+        "summary": "77☠ | 9"
+    },
+    {
+        "created time": "2023-10-06T16:59:00.000Z",
+        "hareketin_ismi": "Over Head Press",
+        "max_agirlik": 50,
+        "max_tekrar": 8,
+        "summary": "50☠ | 8"
+    },
+    {
+        "created time": "2023-10-06T16:54:00.000Z",
+        "hareketin_ismi": "Machine Dips",
+        "max_agirlik": 0,
+        "max_tekrar": 10,
+        "summary": "0☠ | 10"
+    },
+    {
+        "created time": "2023-10-06T16:51:00.000Z",
+        "hareketin_ismi": "Incline Dumbbell Chest Press",
+        "max_agirlik": 50,
+        "max_tekrar": 8,
+        "summary": "50☠ | 8"
+    }
+]
