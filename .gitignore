@@ -402,3 +402,6 @@ FodyWeavers.xsd
 
 # Exclude notion token informations
 .tokenize/
+
+# Ignore playground checkpoints
+.ipynb_checkpoints/
