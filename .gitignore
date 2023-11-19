@@ -405,3 +405,6 @@ FodyWeavers.xsd
 
 # Ignore playground checkpoints
 .ipynb_checkpoints/
+
+# Ignore virtual documents
+.virtual_documents/
