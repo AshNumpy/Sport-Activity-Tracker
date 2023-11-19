@@ -405,3 +405,9 @@ FodyWeavers.xsd
 
 # Ignore playground checkpoints
 .ipynb_checkpoints/
+
+# Ignore python cache files
+__pycacahe__/
+
+# Ignore virtual documentations
+.virtual_documents/
