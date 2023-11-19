@@ -16,7 +16,7 @@ df = pd.read_parquet("./exported-files/agirlik_takibi.parquet")
 
 # SIDEBAR
 with st.sidebar:
-    st.header("🐁 GYM Faresi")
+    st.title("🐁 GYM Faresi")
     
     navbar_select = option_menu(
         "",
@@ -28,7 +28,7 @@ with st.sidebar:
     )
 
 
-st.header(f"{navbar_select}")
+st.title(f"{navbar_select}")
 
 # FILTERS
 with st.container():
@@ -52,18 +52,19 @@ with st.container():
             max_value=max_agirlik_temp,
             value=None,
             label_visibility="collapsed",
-            placeholder="Choose a weight (kg)"
+            placeholder="Input a weight (kg)"
         )
 
     with filter3:
         max_tekrar_temp = 5
 
-        max_tekrar = st.slider(
+        max_tekrar = st.number_input(
             "Maximum Rep",
             min_value=1,
             max_value=15,
-            value=5,
-            label_visibility="collapsed"
+            value=None,
+            label_visibility="collapsed",
+            placeholder="Input a rep number"
         )
 
     with filter4:   
@@ -88,16 +89,17 @@ if navbar_select == "Home":
 
 if navbar_select == "Dashboard":
     with st.container():
-        wide_col, small_col = st.columns((3,1))
+        tight_col, wide_col = st.columns((1,3))
+
+        with tight_col:
+            st.header("KPI-1")
+            st.write("""
+            Fusce eget gravida lacus. Maecenas a libero eu diam rutrum rutrum. Mauris ultrices turpis ut orci commodo, eget rhoncus eros sodales.
+            """)
 
         with wide_col:
             st.write("""
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eget vestibulum arcu. Vivamus eget fermentum ex. Aenean gravida dictum facilisis. Curabitur feugiat elementum risus a aliquet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus maximus ligula vitae lacus interdum, eget interdum magna ultricies. Vivamus eu metus mauris. Cras ac convallis nisl. Etiam finibus elementum egestas. Praesent dignissim ligula vitae felis maximus, sed commodo lorem maximus. Vivamus non felis dignissim, vestibulum nibh in, pretium velit. Cras efficitur tristique magna, ac interdum nisl faucibus vel. Aliquam eros ante, sollicitudin a ultricies vitae, interdum eget dolor. Phasellus varius mauris vel porttitor euismod. Suspendisse mollis purus tempor felis interdum, vehicula maximus nibh efficitur.
-            """)
-
-        with small_col:
-            st.write("""
-            Fusce eget gravida lacus. Maecenas a libero eu diam rutrum rutrum. Mauris ultrices turpis ut orci commodo, eget rhoncus eros sodales.
             """)
 
 
