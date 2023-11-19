@@ -1,7 +1,7 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
 import datetime
-
+import pandas as pd
 
 # PAGE CONFIGURATION
 st.set_page_config(
@@ -9,6 +9,9 @@ st.set_page_config(
     page_icon="🦈",
     layout="wide"
 )
+
+# DATASET READ
+df = pd.read_parquet("./exported-files/agirlik_takibi.parquet")
 
 
 # SIDEBAR
@@ -77,8 +80,11 @@ with st.container():
             label_visibility="collapsed"
         )
 
+
+# PAGEINATION
 if navbar_select == "Home":
     st.write("Homepage")
+
 
 if navbar_select == "Dashboard":
     with st.container():
@@ -94,8 +100,13 @@ if navbar_select == "Dashboard":
             Fusce eget gravida lacus. Maecenas a libero eu diam rutrum rutrum. Mauris ultrices turpis ut orci commodo, eget rhoncus eros sodales.
             """)
 
+
 if navbar_select == "Database":
-    st.write("database page")
+    from myPages import dataset
+    
+    with st.container():
+        dataset.display_database(df,hareket_ismi)
+
 
 if navbar_select == "Contact":
     st.write("contact page")
