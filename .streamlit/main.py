@@ -17,7 +17,7 @@ with st.sidebar:
     
     navbar_select = option_menu(
         "",
-        ['Home', 'Dashboard', 'Raw Dataset', 'Contact'], 
+        ['Home', 'Dashboard', 'Database', 'Contact'], 
         icons=['house-check', 'speedometer2', 'database', 'chat-left-dots'],
         menu_icon="cast",
         default_index=0,
@@ -76,3 +76,26 @@ with st.container():
             format="DD.MM.YYYY",
             label_visibility="collapsed"
         )
+
+if navbar_select == "Home":
+    st.write("Homepage")
+
+if navbar_select == "Dashboard":
+    with st.container():
+        wide_col, small_col = st.columns((3,1))
+
+        with wide_col:
+            st.write("""
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eget vestibulum arcu. Vivamus eget fermentum ex. Aenean gravida dictum facilisis. Curabitur feugiat elementum risus a aliquet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus maximus ligula vitae lacus interdum, eget interdum magna ultricies. Vivamus eu metus mauris. Cras ac convallis nisl. Etiam finibus elementum egestas. Praesent dignissim ligula vitae felis maximus, sed commodo lorem maximus. Vivamus non felis dignissim, vestibulum nibh in, pretium velit. Cras efficitur tristique magna, ac interdum nisl faucibus vel. Aliquam eros ante, sollicitudin a ultricies vitae, interdum eget dolor. Phasellus varius mauris vel porttitor euismod. Suspendisse mollis purus tempor felis interdum, vehicula maximus nibh efficitur.
+            """)
+
+        with small_col:
+            st.write("""
+            Fusce eget gravida lacus. Maecenas a libero eu diam rutrum rutrum. Mauris ultrices turpis ut orci commodo, eget rhoncus eros sodales.
+            """)
+
+if navbar_select == "Database":
+    st.writr("database page")
+
+if navbar_select == "Contact":
+    st.write("contact page")
