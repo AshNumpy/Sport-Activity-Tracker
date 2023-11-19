@@ -95,7 +95,7 @@ if navbar_select == "Dashboard":
             """)
 
 if navbar_select == "Database":
-    st.writr("database page")
+    st.write("database page")
 
 if navbar_select == "Contact":
     st.write("contact page")
